@@ -1,0 +1,16 @@
+﻿Build started 14-May-19 1:18:16 AM.
+     1>Project "c:\Users\Bassem\Documents\Visual Studio 2010\Projects\ProblemSet1_try01\ProblemSet1_try01\ProblemSet1_try01.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Release\ProblemSet1_try01.lastbuildstate".
+       CudaClean:
+         cmd.exe /C "C:\Users\Bassem\AppData\Local\Temp\tmp182160cfeff04511badffe71ea49be32.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64"  -IC:\OpenCV249\opencv\build\include -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o x64\Release\student_func.cu.obj "c:\Users\Bassem\Documents\Visual Studio 2010\Projects\ProblemSet1_try01\ProblemSet1_try01\student_func.cu" -clean
+         
+         c:\Users\Bassem\Documents\Visual Studio 2010\Projects\ProblemSet1_try01\ProblemSet1_try01>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64"  -IC:\OpenCV249\opencv\build\include -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o x64\Release\student_func.cu.obj "c:\Users\Bassem\Documents\Visual Studio 2010\Projects\ProblemSet1_try01\ProblemSet1_try01\student_func.cu" -clean 
+         student_func.cu
+         Deleting file "x64\Release\student_func.cu.deps".
+     1>Done Building Project "c:\Users\Bassem\Documents\Visual Studio 2010\Projects\ProblemSet1_try01\ProblemSet1_try01\ProblemSet1_try01.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.80
