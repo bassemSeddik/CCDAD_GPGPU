@@ -1,0 +1,54 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "mount_file_id": "1KL5Z9AQ2zHdF3Y8VVdTSVFwZ5DnnpO3T",
+      "authorship_tag": "ABX9TyPOfyXweALDK/4k1vhOt55Z",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bassemSeddik/CCDAD_GPGPU/blob/master/travail01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "XOUBcefIJ2a-",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "02d7170c-bc43-4e5c-d508-5e1d897940d1"
+      },
+      "source": [
+        "%ls"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "\u001b[0m\u001b[01;34msample_data\u001b[0m/\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
